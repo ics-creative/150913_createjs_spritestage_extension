@@ -1,6 +1,6 @@
-# CreateJS WebGL Extension
+# CreateJS SpriteStage Extension
 
-ICS LAB「[意地でもCreateJSでWebGLを使ってみよう―CreateJS勉強会/川勝発表資料](http://ics-web.jp/lab/?p=9060)」で作成した拡張クラスおよび使用しているデモのソースコードです。TypeScript 1.5.3、CreateJSを使って作られています。
+ICS LAB「[意地でもCreateJSでWebGLを使ってみよう―CreateJS勉強会/川勝発表資料](http://ics-web.jp/lab/?p=9060)」で作成したCreateJSの拡張クラスおよび使用しているデモのソースコードです。TypeScript 1.5.3、CreateJSを使って作られています。
 
 ## フォルダー構成
 
